@@ -1,0 +1,13 @@
+.cards{
+  border: 2px solid #D4273E;
+  padding: 20px;
+  width: 50px;
+  background-color: #E9E7D5;
+  color: #D4273E;
+}
+.display{
+  padding: 20px;
+  background-color: #D4273E;
+  color: #E9E7D5;
+  width: 200px;
+}
